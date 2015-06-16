@@ -8,7 +8,7 @@ UUID is useful. It can be almost guaranteed to be unique even when generated in 
 
 ### What's auid?
 
-AUID is a 32-length ASCII text, same length as UUID. Deference is, AUID uses Base64 encoded string instead of hexadecimal string. It enables AUID to contain more information in the same length.
+AUID is a 32-length ASCII text, same length as UUID. Difference is, AUID uses Base64 encoded string instead of hexadecimal string. It enables AUID to contain more information in the same length.
 
 ### Wait, we don't need larger UUID!
 
